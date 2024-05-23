@@ -1,0 +1,35 @@
+Method: POST 
+Received POST data: Array
+(
+    [email] => cc@gmail.com
+    [password] => apodiaosdiasd
+)
+
+Method: POST 
+Received POST data: Array
+(
+    [email] => cc@gmail.com
+    [password] => apodiaosdiasd
+)
+
+Method: POST 
+Received POST data: Array
+(
+    [email] => picolo2004@gmail.com
+    [password] => apodiaosdiasd
+)
+
+Method: POST 
+Received POST data: Array
+(
+    [email] => picolo2004@gmail.com
+    [password] => xxx123xxx
+)
+
+Method: POST 
+Received POST data: Array
+(
+    [email] => picolo2004@gmail.com
+    [password] => xxx123xxx
+)
+
